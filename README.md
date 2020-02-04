@@ -1,5 +1,7 @@
 # Guava: Google Core Libraries for Java
 
+chan
+
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
 [![Build Status](https://travis-ci.org/google/guava.svg?branch=master)](https://travis-ci.org/google/guava)
 
